@@ -1,0 +1,17 @@
+.main{
+    width: 100%;
+   background: #282c34;
+   color: white;
+   height: auto;
+}
+.footer{
+    background: #484f5f;
+  padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+.footer svg{
+    cursor: pointer;
+    color: white;
+}

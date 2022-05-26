@@ -1,0 +1,14 @@
+
+.navbar-nav a{
+    margin-right: 1rem;
+    padding: 2px 0px;
+    text-decoration: none;
+    color: gray;
+    transition: color ease .2s;
+}
+.navbar-nav a:hover{
+    color: #000;
+}
+.active{
+    color: #000;
+}

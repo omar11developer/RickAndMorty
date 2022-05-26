@@ -1,0 +1,11 @@
+.container-header{
+    margin-top: 20px;
+    padding: 8px 15px;
+}
+.container-header h3{
+    padding-left: 15px;
+}
+.container-header_separador{
+    height: 2px;
+    background: rgba(128, 128, 128, 0.363);
+}
